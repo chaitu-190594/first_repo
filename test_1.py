@@ -1,1 +1,1 @@
-print('git_testing_')
+print('git_testing')
