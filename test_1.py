@@ -1,2 +1,2 @@
 print('git_testing')
-print('pushing from new branch test2')
+print('first push from new branch test2')
